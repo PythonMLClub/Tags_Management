@@ -1,0 +1,14 @@
+{
+    "snowflake": {
+        "user": "peter",
+        "password": "B2bvibe1",
+        "account": "xxtqtmi-gva85946",
+        "warehouse": "compute_wh",
+        "database": "db_streamlit",
+        "schema": "sc_streamlit"
+    },
+    "app_settings": {
+        "metadata_table_name": "sch_metadata",
+        "refresh_interval_hrs": 2
+    }
+}
